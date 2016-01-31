@@ -1,4 +1,4 @@
-ommands/set up
+Commands/set up
 `npm init`
 `npm i webpack -S`
 gitignore node_modules
